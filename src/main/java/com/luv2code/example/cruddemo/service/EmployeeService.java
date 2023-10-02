@@ -12,5 +12,5 @@ public interface EmployeeService {
 
     void deleteById(Integer id);
 
-    int deleteAll();
+    void deleteAll();
 }
